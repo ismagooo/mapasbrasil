@@ -12,7 +12,7 @@ table{
     border-collapse: collapse;
     width: 100%;
 }
-a  {
-    text-decoration: none;
-    
-   }
+a   { text-decoration: none;
+    border: 2px solid black; /* Exemplo de borda preta com 2px */
+    padding: 4px; /* Espaço interno opcional para melhorar a aparência */
+    border-radius: 5px; /* Borda arredondada, opcional */}
