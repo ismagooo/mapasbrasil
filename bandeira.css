@@ -12,5 +12,6 @@ table{
     border-collapse: collapse;
     width: 100%;
 }
-a  {text-decoration: none; 
+a  {text-decoration: none;
+    border-line: radius;
    }
