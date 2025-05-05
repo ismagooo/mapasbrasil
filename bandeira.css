@@ -1,0 +1,14 @@
+body{
+    background-color: #52d9d8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
