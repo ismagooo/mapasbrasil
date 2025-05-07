@@ -14,5 +14,5 @@ table{
 }
 a   { text-decoration: none;
     border: 2px solid black; /* Exemplo de borda preta com 2px */
-    padding: 2px; /* Espaço interno opcional para melhorar a aparência */
+    padding: 5px; /* Espaço interno opcional para melhorar a aparência */
     border-radius: 5px; /* Borda arredondada, opcional */}
